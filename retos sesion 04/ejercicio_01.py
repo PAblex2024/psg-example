@@ -1,0 +1,11 @@
+# realizaremos un cuadrado con prints
+print("ooooooooooooooooooooo")
+print("o                   o")
+print("o                   o")
+print("o                   o")
+print("o                   o")
+print("o                   o")
+print("o                   o")
+print("o                   o")
+print("o                   o")
+print("ooooooooooooooooooooo")
