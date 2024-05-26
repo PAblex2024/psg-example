@@ -1,0 +1,7 @@
+print("Reglas del juego batalla naval en papel")
+print("Para jugar a la batalla naval se necesita papel cuadriculado, lápiz y estrategia.")
+print("Se dibuja un cuadrado con diez casilleros y en la parte horizontal se le ponen letras y en la vertical números")
+print("En la cuadricula se distribuyen 10 barcos sin mostrar dónde están")
+print("Una vez que cada jugador tenga lista su flota, empieza a dar coordenadas para intentar hundir la flota contraria")
+print("Si dice un casillero que está vacío el contrario deberá decir agua, si acierta escuchará hundido")
+print("Juega uno por vez, el que quede con los barcos a flote resultará ganador")
